@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my back-end skills always looking to improve**
 
-- 🌱 I’m currently learning **Angular**<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> and improving Spring <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+- 🌱 I’m currently learning **Angular**<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> and improving Spring <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 
 - 📫 How to reach me **caio6c@yahoo.com.br**
 
